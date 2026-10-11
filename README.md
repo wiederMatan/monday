@@ -5,6 +5,8 @@ columns, inline editing, automations, and five ways to look at the same work.
 It runs entirely in the browser — your workspace is saved to `localStorage`, so
 there is no backend, account or database to set up.
 
+**Live demo:** https://monday-lemon-mu.vercel.app
+
 ![Board with subitems](docs/screenshots/board.png)
 
 ## Features
